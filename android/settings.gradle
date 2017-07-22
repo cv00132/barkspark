@@ -1,0 +1,3 @@
+rootProject.name = 'barkspark'
+
+include ':app'
